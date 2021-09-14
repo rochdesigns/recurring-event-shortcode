@@ -1,2 +1,2 @@
 # recurring-event-shortcode
-A shortcode that displays date and time for each recurring event
+A shortcode that will display time and date details for recurring events with the following formats:
